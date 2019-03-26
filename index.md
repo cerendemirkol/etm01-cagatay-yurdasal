@@ -8,4 +8,3 @@ I signed up to github and completed my desktop installations.
 
 ### Udacity Update 
 I signed up to Udacity & Datacamp
-
