@@ -1,6 +1,6 @@
 ---
 title: "Homework 3"
-author: "Çağatay Yurdasal & Gülnur Acar"
+author: "Cagatay Yurdasal & Gulnur Acar"
 date: "9 Mayıs 2019"
 output: html_document
 ---
